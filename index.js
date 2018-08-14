@@ -2,9 +2,9 @@
 function scuberGreetingForFeet(rideHeight){
   if(rideHeight<=400){
     return "This one is on me!";
-  }else if (rideHeight > 2500) {
+  }else if (rideHeight > 2000 && rideHeight <2500) {
     return "I will gladly take your thirty bucks.";
-  }else if (rideHeight >2000) {
+  }else {
     return 'No can do.';
   }
 }
