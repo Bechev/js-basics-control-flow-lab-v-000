@@ -5,6 +5,6 @@ function scuberGreetingForFeet(rideHeight){
   }else if (rideHeight > 2500) {
     "I will gladly take your thirty bucks."
   }else if (rideHeight >2000) {
-
+    'No can do.''
   }
 }
